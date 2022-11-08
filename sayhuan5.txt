@@ -1,4 +1,8 @@
 sayhuan5
 sayhuan5555 hihi
+<<<<<<< HEAD
 
 weisye 102312
+=======
+sayhuan continue write
+>>>>>>> origin/main
